@@ -1,0 +1,18 @@
+Name Md. Hasanuzzaman Anuz
+Batch: Computer Vision online - 8
+
+
+>>>>>>>>>>>>>>>>>Creat a new repository on cli
+echo "# CV-8-Assignment" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mhanuz/CV-8-Assignment.git
+git push -u origin main
+
+>>>>>>>>>>>>>>>push an existing repository on cli
+git remote add origin https://github.com/mhanuz/CV-8-Assignment.git
+git branch -M main
+git push -u origin main
+
